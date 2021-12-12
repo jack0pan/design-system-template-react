@@ -1,13 +1,12 @@
 # 基于 React 的 Design System 模版库
 
-<div align="center">
-
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-</div>
-
 ## 开发工具
+
+- [husky](https://typicode.github.io/husky/#/)
+- [lint-staged](https://github.com/okonet/lint-staged)
 
 ### Code style
 
@@ -17,7 +16,6 @@
 
 ### Lint
 
-- [husky](https://typicode.github.io/husky/#/)
 - [commitlint](https://github.com/conventional-changelog/commitlint)
 - [ts-standard](https://github.com/standard/ts-standard)
 
