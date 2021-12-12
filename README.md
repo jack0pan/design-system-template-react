@@ -12,6 +12,7 @@
 ### Code style
 
 - [Prettier](https://github.com/prettier/prettier)
+- [Stylelint](https://github.com/stylelint/stylelint)
 - [ts-standard](https://github.com/standard/ts-standard)
 
 ### Lint
