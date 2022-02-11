@@ -4,6 +4,7 @@ module.exports = {
     "react-app/jest",
     "prettier",
     "plugin:sonarjs/recommended",
+    "plugin:storybook/recommended",
   ],
   plugins: ["sonarjs", "eslint-plugin-tsdoc"],
   rules: {
