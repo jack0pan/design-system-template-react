@@ -6745,10 +6745,10 @@ eslint-plugin-sonarjs@^0.13.0:
   resolved "https://registry.yarnpkg.com/eslint-plugin-sonarjs/-/eslint-plugin-sonarjs-0.13.0.tgz#c34d140cc90abaaed38f5a5201a2ccdebe398862"
   integrity sha512-t3m7ta0EspzDxSOZh3cEOJIJVZgN/TlJYaBGnQlK6W/PZNbWep8q4RQskkJkA7/zwNpX0BaoEOSUUrqaADVoqA==
 
-eslint-plugin-storybook@^0.5.12:
-  version "0.5.12"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-storybook/-/eslint-plugin-storybook-0.5.12.tgz#b84d38400b91a9abdf15cd2c81644bff27861a96"
-  integrity sha512-ojuNKnrZFrQpm5N5Lp8UR0VEn4HtLjlNn6nxQAYlmTsEXNigtId1XPuMbXAsvFcEmv3RTb5l+9tZgkhSURfACg==
+eslint-plugin-storybook@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-storybook/-/eslint-plugin-storybook-0.6.0.tgz#571a37fad6ee7f7923b58d4a7470da8918f08fe9"
+  integrity sha512-B6SKZSm1LaDq+bvjd4LCBmNK42LKrr+9Wsy9d5imB6yKVBVt/XFDJ3UhXxVm4OjTlrMyI4I9mTAQ7Lw1EHVXSw==
   dependencies:
     "@storybook/csf" "^0.0.1"
     "@typescript-eslint/experimental-utils" "^5.3.0"
